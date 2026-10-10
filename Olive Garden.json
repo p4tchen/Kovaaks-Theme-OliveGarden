@@ -1,0 +1,119 @@
+{
+	"themeName": "P4TCHEN / OLIVE GARDEN",
+	"wallMaterial": "PURE COLOR",
+	"wallRoughness": 0.49637681245803833,
+	"wallMetallic": 1,
+	"wallFullBright": 0,
+	"wallTint":
+	{
+		"x": 0.13563333451747894,
+		"y": 0.17144109308719635,
+		"z": 0.086500458419322968
+	},
+	"wallTextureScale": 0.10000000149011612,
+	"floorMaterial": "PURE COLOR",
+	"floorRoughness": 0.35869565606117249,
+	"floorMetallic": 1,
+	"floorFullBright": 0,
+	"floorTint":
+	{
+		"x": 0.13563333451747894,
+		"y": 0.17144109308719635,
+		"z": 0.086500458419322968
+	},
+	"floorTextureScale": 0.10000000149011612,
+	"ceilingMaterial": "PURE COLOR",
+	"ceilingRoughness": 0,
+	"ceilingMetallic": 1,
+	"ceilingFullBright": 0.70652174949645996,
+	"ceilingTint":
+	{
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"ceilingTextureScale": 0.10000000149011612,
+	"rampMaterial": "PURE COLOR",
+	"rampRoughness": 1,
+	"rampMetallic": 0,
+	"rampFullBright": 0.80000001192092896,
+	"rampTint":
+	{
+		"x": 0,
+		"y": 0,
+		"z": 0
+	},
+	"rampTextureScale": 1,
+	"overrideEnemyHeadColor": true,
+	"overrideEnemyBodyColor": true,
+	"setEnemyBodyColorAsAttackColor": false,
+	"enemyColorRoughness": 0.75265955924987793,
+	"enemyColorMetallic": 0.94946807622909546,
+	"enemyColorFullBright": 0.26861703395843506,
+	"enemyHeadColor":
+	{
+		"x": 0.21586050093173981,
+		"y": 0.27467730641365051,
+		"z": 0.13563333451747894
+	},
+	"enemyHeadColorOnHit":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"enemyHeadColorOnLookAt":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 0
+	},
+	"enemyBodyColor":
+	{
+		"x": 0.21586050093173981,
+		"y": 0.27467730641365051,
+		"z": 0.13563333451747894
+	},
+	"enemyBodyColorOnHit":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 1
+	},
+	"enemyBodyColorOnLookAt":
+	{
+		"x": 1,
+		"y": 1,
+		"z": 0
+	},
+	"changeEnemyColorOnHit": false,
+	"changeEnemyColorOnLookAt": false,
+	"teamGlowUpHead": 1,
+	"teamGlowUpBody": 1,
+	"enemyGlowUpHead": 1,
+	"enemyGlowUpBody": 1,
+	"enemyGlowUpHeadOnHit": 1,
+	"enemyGlowUpBodyOnHit": 1,
+	"enemyGlowUpHeadOnLookAt": 1,
+	"enemyGlowUpBodyOnLookAt": 1,
+	"enemyOutlineWidth": 0,
+	"enemyOutlineSizeThreshold": 1,
+	"enemyOutlineGlow": 2,
+	"enemyOutlineColor":
+	{
+		"x": 0.21586050093173981,
+		"y": 0.27467730641365051,
+		"z": 0.13563333451747894
+	},
+	"skyPresetId": 8,
+	"cloudCoverId": 0,
+	"solidSkyColor": false,
+	"sunVisible": true,
+	"skyColor":
+	{
+		"b": 88,
+		"g": 122,
+		"r": 110,
+		"a": 255
+	}
+}
